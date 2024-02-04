@@ -192,7 +192,7 @@ header table {
       rgba(44, 132, 255, 0),
       rgba(44, 132, 255, 0)
     ),
-    url("assets/main_small.jpeg") center center;
+    url("assets/main_logo_shrunk.jpeg") center center;
   background-size: cover;
   background-repeat: no-repeat;
 }
