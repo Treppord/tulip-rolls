@@ -341,6 +341,13 @@ button:focus {
   background: rgba(0, 0, 0, 0.8);
 }
 
+@media (max-height: 720px) {
+  #top_part tr td {
+    padding-top: 2020px;
+    margin-top: 120px;
+  }
+}
+
 @media (max-width: 1000px) {
   #photos {
     columns: 1;
