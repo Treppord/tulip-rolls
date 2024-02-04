@@ -65,6 +65,11 @@ header table {
 #logo {
   width: 20%;
   color: var(--primary-color);
+  text-align: right; /* Align the image to the right within its container */
+}
+
+#logo img {
+  max-width: 100%; /* Ensure the image stays within its container */
 }
 
 #navigation {
